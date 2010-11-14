@@ -46,7 +46,7 @@
 ;instant messenger
 ;jabber.el from http://emacs-jabber.sourceforge.net/
 (require 'jabber-autoloads)
-;test
+;test test
 
 ;;;;; ~/.emacs.d/elisp/　内に設定用elispファイルを分割設置->2010/11/13
 
